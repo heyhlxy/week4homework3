@@ -2,7 +2,7 @@ package practice1;
 
 public class SecurityChecker {
     public  boolean checkPermission(User user, Permission permission) {
-        //todo code
+    	//todo code
         return false;
     }
 
